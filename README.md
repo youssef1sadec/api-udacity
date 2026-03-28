@@ -16,8 +16,8 @@
 5. npm run prettier > to use the prettier
 
 ##  to start 
- npm i start
-
+ npm i 
+ npm run start
 ## author script
  youseef sadec
 
